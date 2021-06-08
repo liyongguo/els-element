@@ -3,8 +3,8 @@
   "workspaces": [
     "packages/*"
   ],
-  "name": "03-GELEMENT",
-  "version": "1.0.0",
+  "name": "els-element",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
